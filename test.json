@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "published_year": 1949,
+      "genre": "Dystopian fiction",
+      "ISBN": "978-0451524935"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "published_year": 1960,
+      "genre": "Southern Gothic, Bildungsroman",
+      "ISBN": "978-0061120084"
+    }
+  ]
+}
